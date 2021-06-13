@@ -19,6 +19,6 @@ Notebook 3 : Landmark Detection and Tracking.
 
 Installation
 ```
-$ git clone https://github.com/Noob-can-Compile/Landmark_Detection_Robot_Tracking_SLAM-.git
+$ git clone https://github.com/phenomenal-manish/Landmark_Detection_Robot_Tracking_SLAM-.git
 $ sudo pip3 install -r requirements.txt
 ```
